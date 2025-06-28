@@ -1,0 +1,9 @@
+[submodule "modules/plicp-slam"]
+	path = modules/plicp-slam
+	url = https://github.com/drmwnrafi/plicp-slam.git
+[submodule "modules/plicp_slam"]
+	path = modules/plicp_slam
+	url = https://github.com/drmwnrafi/plicp-slam.git
+[submodule "plicp_slam"]
+	path = plicp_slam
+	url = https://github.com/drmwnrafi/plicp-slam.git
